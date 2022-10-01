@@ -6,7 +6,7 @@ public class Mytest1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\M&M\\Myworkspace\\Rajeshnew\\Drivers\\chromedriver.exe");
-		
+		Mytest2 test2 = new Mytest2();
 		
 		WebDriver driver = new ChromeDriver();
 		
@@ -20,6 +20,8 @@ System.out.println(b);
 int c = a + b;
 
 System.out.println(c);
+
+test2.newadditions();
 	}
 
 }
