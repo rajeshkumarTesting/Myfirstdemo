@@ -1,7 +1,9 @@
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class Mytest1 {
+import net.bytebuddy.implementation.bind.annotation.Super;
+
+public class Mytest1 extends Mytest2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -20,6 +22,9 @@ System.out.println(b);
 int c = a + b;
 
 System.out.println(c);
+
+System.out.println(test2.a);
+System.out.println(test2.b);
 
 test2.newadditions();
 	}

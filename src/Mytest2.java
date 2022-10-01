@@ -1,12 +1,14 @@
 
 public class Mytest2 {
 	
+	static int a= 23;
+	static int b= 34;
+	
+	
 	public static void newadditions()
 	{
-		int a= 23;
-		int b= 34;
 		
-		System.out.println("C value is "+a+b);
+		System.out.println("C value is "+ a+b);
 		
 		
 		
