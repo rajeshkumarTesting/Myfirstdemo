@@ -28,9 +28,7 @@ System.out.println(test2.b);
 
 System.out.println("Checking the changes in test1");
 
-System.out.println("123");
-System.out.println("456");
-System.out.println("789");
+System.out.println("empty methods in test1");
 
 
 
