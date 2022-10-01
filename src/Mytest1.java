@@ -14,8 +14,12 @@ public class Mytest1 {
 		driver.get("https://www.gmail.com");
 		int a = 3;
 		System.out.println(a);
-			
+			int b= 34;
+System.out.println(b);
 
+int c = a + b;
+
+System.out.println(c);
 	}
 
 }
