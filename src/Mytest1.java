@@ -9,7 +9,11 @@ public class Mytest1  {
 		// TODO Auto-generated method stub
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\M&M\\Myworkspace\\Rajeshnew\\Drivers\\chromedriver.exe");
 		
+	WebDriver driver = new ChromeDriver();
 	
+	driver.get("https://www.google.com");
+	
+	driver.quit();
 
 System.out.println("empty methods in test123");
 System.out.println("changes of master");
