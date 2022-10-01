@@ -11,7 +11,7 @@ public class Mytest1 extends Mytest2 {
 		Mytest2 test2 = new Mytest2();
 	
 
-System.out.println("empty methods in test1");
+System.out.println("empty methods in test123");
 
 
 
