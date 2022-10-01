@@ -26,7 +26,7 @@ System.out.println(c);
 System.out.println(test2.a);
 System.out.println(test2.b);
 
-System.out.println("Checking the changes in test1")
+System.out.println("Checking the changes in test1");
 
 test2.newadditions();
 	}
