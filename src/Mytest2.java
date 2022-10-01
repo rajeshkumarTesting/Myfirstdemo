@@ -12,6 +12,10 @@ public class Mytest2 {
 		
 		System.out.println("Checking the changes in test2");
 		
+		System.out.println("test1");
+		System.out.println("test2");
+		System.out.println("test3");
+		
 	}
 
 }
