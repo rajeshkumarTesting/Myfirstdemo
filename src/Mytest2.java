@@ -10,6 +10,10 @@ public class Mytest2 {
 		
 		System.out.println("empty methods");
 		
+		
+		
+		System.out.println("Testing of branching");
+		
 	}
 
 }
